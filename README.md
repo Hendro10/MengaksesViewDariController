@@ -9,3 +9,4 @@ Buat file baru bernama "barang.blade.php" di folder "resources" => "views".
 Copy paste file "barang.blade.php" ke folder "resources" => "views" = "barang.blade.php".
 Copy paste file "web.php" ke dalam folder "routes" => "web.php".
 Jalankan web broser dengan mengetikkan localhost:8000/barang atau di serve port localhost:80/barang tergantung serve port yang dipakai.
+Terima kasih
