@@ -1,7 +1,7 @@
 # MengaksesViewDariController
 Menggunakan Firmwork Laravel
 Buat file baru bernama "PageController.php" di folder "Http" => "Controllers".
-Copy paste file "PageController.php" ke dalam folder "Http" => "Controllers" => "PageController.php".
+Copy paste file "PageController.php" dan "Controller.php" ke dalam folder "Http" => "Controllers".
 Buat Folder baru bernama "css" di folder "public".
 Buat file baru bernama "bootstrap.min.css" di folder "css".
 Copy paste file "bootstrap.min.css" ke dalam folder "public" => "css" => "bootstrap.min.css".
